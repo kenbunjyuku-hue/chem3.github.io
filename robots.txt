@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kenbunjyuku-hue.github.io/chem3.github.io/al-folio/sitemap.xml
+Sitemap: https://kenbunjyuku-hue.github.io/sitemap.xml
